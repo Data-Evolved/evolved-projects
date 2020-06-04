@@ -23,9 +23,10 @@ https://cran.r-project.org/web/packages/ISLR/ISLR.pdf
 
 # Chapters 
 
-* <a href="chapter-02/index.md">Chapter 02</a>
-* <a href="chapter-03/index.md">Chapter 03</a>
-* <a href="chapter-09/index.md">Chapter 09</a>
+* <a href="chapter-02">Chapter 02 Statistical Learning</a>
+* <a href="chapter-03">Chapter 03 Linear Regression</a>
+* <a href="chapter-08">Chapter 08 Tree-Based Methods</a>
+* <a href="chapter-09">Chapter 09: Support Vector Machines</a>
 
 
 # Python Packages 
