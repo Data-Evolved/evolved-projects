@@ -23,17 +23,18 @@ https://cran.r-project.org/web/packages/ISLR/ISLR.pdf
 
 # Chapters 
 
-* <a href="chapter-02">Chapter 02 Statistical Learning</a>
-* <a href="chapter-03">Chapter 03 Linear Regression</a>
-* <a href="chapter-08">Chapter 08 Tree-Based Methods</a>
+* <a href="chapter-02">Chapter 02: Statistical Learning</a>
+* <a href="chapter-03">Chapter 03: Linear Regression</a>
+* <a href="chapter-08">Chapter 08: Tree-Based Methods</a>
 * <a href="chapter-09">Chapter 09: Support Vector Machines</a>
 
 
 # Python Packages 
 
+* `statsmodels` a library that can be used to load R data sets and replicate some of the functionality in R.
 * `numpy` (NumPy) is a package for scientific computing with powerful arrays. https://numpy.org/
 * `pandas` is a library for high-performance, easy-to-use data structures and data analysis tools. https://pandas.pydata.org/pandas-docs/stable/index.html
-* `matlibplot` is a comprehensive library for creating static, animated, and interactive visualizations in Python. https://matplotlib.org/
+* `matplotlib` is a comprehensive library for creating static, animated, and interactive visualizations in Python. https://matplotlib.org/
 * `seaborn` is a library for making statistical graphics in Python and is built on top of matplotlib. https://seaborn.pydata.org/introduction.html
 
 
