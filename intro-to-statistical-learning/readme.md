@@ -24,8 +24,8 @@ https://cran.r-project.org/web/packages/ISLR/ISLR.pdf
 # Chapters 
 
 * <a href="chapter-02/index.md">Chapter 02</a>
-* <a href="chapter-03/index.md">Chapter 02</a>
-* <a href="chapter-09/index.md">Chapter 02</a>
+* <a href="chapter-03/index.md">Chapter 03</a>
+* <a href="chapter-09/index.md">Chapter 09</a>
 
 
 # Python Packages 
