@@ -35,7 +35,9 @@ https://cran.r-project.org/web/packages/ISLR/ISLR.pdf
 * `numpy` (NumPy) is a package for scientific computing with powerful arrays. https://numpy.org/
 * `pandas` is a library for high-performance, easy-to-use data structures and data analysis tools. https://pandas.pydata.org/pandas-docs/stable/index.html
 * `matplotlib` is a comprehensive library for creating static, animated, and interactive visualizations in Python. https://matplotlib.org/
+* `mpl_toolkits.mplot3d` The mplot3d toolkit adds simple 3D plotting capabilities to matplotlib by supplying an axes object that can create a 2D projection of a 3D scene. The resulting graph will have the same look and feel as regular 2D plots. https://matplotlib.org/1.4.3/mpl_toolkits/mplot3d/index.html
 * `seaborn` is a library for making statistical graphics in Python and is built on top of matplotlib. https://seaborn.pydata.org/introduction.html
+* `sklearn` (scikit-learn): a library for machine learning https://scikit-learn.org/stable/
 
 
 # Code Style 
