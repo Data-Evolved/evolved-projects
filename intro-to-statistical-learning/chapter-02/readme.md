@@ -7,9 +7,9 @@
 
 2.3.2 [Graphics](chapter-02-lab-2-3-2.ipynb)
 
-2.3.3 Indexing Data
+2.3.3 [Indexing Data](chapter-02-lab-2-3-3.ipynb)
 
-2.3.4 Loading Data 
+2.3.4 [Loading Data](chapter-02-lab-2-3-4.ipynb)
 
-2.3.5 Additional Graphical and Numerical Summaries
+2.3.5 [Additional Graphical and Numerical Summaries](chapter-02-lab-2-3-5.ipynb)
 
